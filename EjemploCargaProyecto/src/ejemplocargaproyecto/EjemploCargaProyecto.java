@@ -16,6 +16,11 @@ public class EjemploCargaProyecto {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int variable=0;
+        
+        System.out.println(variable+10);
+        
+        
     }
     
 }
